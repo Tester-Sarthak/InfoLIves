@@ -1,2 +1,2 @@
 # InfoLIves
-This test case verifies that the application’s legal service features function correctly, ensuring all modules, forms, and workflows operate as expected and meet professional standards.
+A simple and user-friendly Authentication Module that includes Login and Signup screens with proper validation, error handling, and responsive UI. Suitable for web and mobile applications.
